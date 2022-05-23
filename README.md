@@ -1,6 +1,6 @@
 # Recriando a página inicial do Instagram
 
-<p aling=center style="background-color:tomato;">Projeto desafio da DIO para recriar a pégina inicial do instagram</p>
+<p aling=center style="background-color:tomato;">Projeto desafio da DIO para recriar a pégina inicial do Instagram</p>
 
 # Sumário
    
@@ -13,7 +13,7 @@
 <p>Seguindo a linha de raciocineo demosntra nas videoaulas do bootcamp Spread Fullstack Developer e pelo conteudo de apoio indicado para a construção deste projeto foi possivel refazer a página inicial do Instagram com o maximo de fidelialade.</p>
 
 # Material de apoio
-Repositório da intrutora do projeto [Repositório](https://github.com/SpruceGabriela/instagram-dio)
+Repositório da instrutora do projeto [Repositório](https://github.com/SpruceGabriela/instagram-dio)
 
 Material didátio para HTML e CASS e muitas outras linguagens de programação [W3schools](https://www.w3schools.com/html/default.asp)
 
